@@ -95,3 +95,10 @@ The whole Project or Challenge needs the below three Github Repos
 </tr>
 
 </table>
+
+### Note
+
+This is not a fully deployed application or prototype.
+So, the application is to understand what it can solve, does not run the executions.
+Couldn't fix the backend workers for all types of nodes coz of their complexities and the challenge time limit.
+Excited to share much more vision on this in-person.
