@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch Demo Video" width="200" />
+  <a href="https://youtu.be/lE6wzyeXpE4" target="_blank">
+    <img src="./assets/applicationPreview.png" alt="Watch Demo Video" width="400" />
   </a>
   <br/>
   
@@ -21,9 +21,9 @@
 <p align="center">
   <strong>And a Walkthrough by the Creator makes us to Understand a Lot about <i>Behind & Beyond</i></strong>
   <br>
-  🎥 <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank"><b>Watch Video Demo</b></a>
+  🎥 <a href="https://youtu.be/lE6wzyeXpE4" target="_blank"><b>Watch Video Demo</b></a>
   <br>
-  <a href="https://youtube.com/" target="_blank"><i>https://youtube.com/</i></a>
+  <a href="https://youtube.com/" target="_blank"><i>https://youtu.be/lE6wzyeXpE4</i></a>
 </p>
 
 <hr>
@@ -95,7 +95,3 @@ The whole Project or Challenge needs the below three Github Repos
 </tr>
 
 </table>
-
-#### Just A Preview
-
-<img src="./assets/applicationPreview.png" />
